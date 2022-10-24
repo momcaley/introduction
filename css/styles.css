@@ -70,22 +70,23 @@ body{
 }
 
 .cloud1{
-  position:absolute;
-  display: flex;
-  left:200px;
+  position:relative;
+  right:300px;
   top:20px;
+
 }
 
 .cloud2{
-  position:absolute;
-  right:200px;
-  top:50px;
+  position:relative;
+  left:300px;
+  top:150px;
 }
 
 .cloud3{
-  position:absolute;
-  left:300px;
-  top:250px;
+  position:relative;
+  bottom:350px;
+  left:50px;
+
 }
 
 .highlight{
@@ -107,11 +108,11 @@ body{
 
 .skill2{
   float: right;
-  margin-left: 30px;
+  margin: auto auto auto 30px;
 }
 
 .notes{
-  margin:auto 300px 20px 300px;
+  margin:auto;
 }
 
 .btn{
