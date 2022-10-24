@@ -1,0 +1,128 @@
+.topcontainer{
+  background-color: #DFF6FF;
+  margin-top: 0;
+  padding-top: 50px;
+  border: none;
+}
+
+hr{
+  margin:100px auto;
+border-style: dotted none none none;
+border-width: 5px;
+width: 5%;
+color: #C6EBC5;
+}
+
+h1{
+  margin: 0;
+  border: none;
+  font-family: 'Great Vibes', cursive;
+  font-size: 5.5rem;
+  color: #76BA99;
+  line-height: 2;
+}
+
+h2{
+  margin-top: 0;
+  border: none;
+  font-family: 'Bad Script', cursive;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Bad Script', cursive;
+    font-size: 1.5rem;
+}
+
+a{
+  color: #11999E;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+}
+
+.middle-container{
+  padding-top: 30px;
+  margin-top: 0;
+  border: none;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 1.2rem;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 50px;
+  border: 50px;
+  padding:50px;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.image{
+  height: 400px;
+  width: 600px;
+  position:relative;
+  right:30px;
+}
+
+.cloud1{
+  position:absolute;
+  display: flex;
+  left:200px;
+  top:20px;
+}
+
+.cloud2{
+  position:absolute;
+  right:200px;
+  top:50px;
+}
+
+.cloud3{
+  position:absolute;
+  left:300px;
+  top:250px;
+}
+
+.highlight{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 20px auto 200px auto;
+  text-align: left;
+}
+
+.skill1{
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2{
+  float: right;
+  margin-left: 30px;
+}
+
+.notes{
+  margin:auto 300px 20px 300px;
+}
+
+.btn{
+font-size: 72px;
+color: #66BFBF;
+margin-top: 10px;
+border:none;
+}
+.footer-link{
+  padding-left: 30px;
+}
+a:hover{
+  color: #EAF6F6;
+}
